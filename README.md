@@ -1,4 +1,4 @@
-# Hi, I'm Javier 👋🏾 👩🏾‍💻
+# Hi, I'm Javier 👋👨‍💻
 <img align="right" width="280" src="https://github.com/jastabilesandbox/jastabilesandbox/blob/main/static/hello.gif?raw=true">
 
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonwebservices&color=232F3E)
