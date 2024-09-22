@@ -33,5 +33,11 @@ Passionate about new technologies, open-source, learning new things and always c
 
 </br></br></br>
 
+👇 Hit in your console or terminal to connect with me.
+
+```bash
+npx jastabile
+```
+
 ## Learn more about me: 
 - <a href="https://www.linkedin.com/in/javierstabile/">LinkedIn</a> 💼
