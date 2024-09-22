@@ -4,6 +4,7 @@
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonwebservices&color=232F3E)
 ![Google](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=googlecloud&color=4285F4)
 ![DigitalOcean](https://img.shields.io/badge/Cloud-DigitalOcean-informational?style=flat&logo=digitalocean&color=0080FF)
+
 ![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-informational?style=flat&logo=kubernetes&color=326CE5)
 ![Datadog](https://img.shields.io/badge/Observability-Datadog-informational?style=flat&logo=datadog&color=632CA6)
 
