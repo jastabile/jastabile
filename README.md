@@ -31,7 +31,7 @@ Passionate about new technologies, open-source, learning new things and always c
 - Currently working as an SRE, contributing and freelancing.
 - On the path to become an experienced software architect.
 
-</br>
+</br></br>
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
