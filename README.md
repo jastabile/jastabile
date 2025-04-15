@@ -40,3 +40,5 @@ npx jastabile
 
 ## Learn more about me: 
 - <a href="https://www.linkedin.com/in/javierstabile/">LinkedIn</a> 💼
+- <a href="https://medium.com/@jastabile">Medium</a> 📖
+
