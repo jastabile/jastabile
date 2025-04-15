@@ -6,6 +6,7 @@
 ![DigitalOcean](https://img.shields.io/badge/Cloud-DigitalOcean-informational?style=flat&logo=digitalocean&color=0080FF)
 
 ![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-informational?style=flat&logo=kubernetes&color=326CE5)
+![ECS](https://img.shields.io/badge/Orchestration-ECS-informational?style=flat&logo=amazonecs&color=FF9900)
 ![Datadog](https://img.shields.io/badge/Observability-Datadog-informational?style=flat&logo=datadog&color=632CA6)
 
 ![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&color=4479A1)
