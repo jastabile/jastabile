@@ -47,6 +47,8 @@ npx jastabile
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Handling Domain Redirects with AWS API Gateway: A Terraform to Pulumi Journey](https://medium.com/@jastabile/handling-domain-redirects-with-aws-api-gateway-a-terraform-to-pulumi-journey-1b19afcb22d3?source=rss-cad638fa8c21------2)
+- [Deploying Jenkins in EKS, build agents on pods and spot instances](https://awstip.com/deploying-jenkins-in-eks-build-agents-on-pods-and-spot-instances-c1367951058d?source=rss-cad638fa8c21------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Learn more about me:
